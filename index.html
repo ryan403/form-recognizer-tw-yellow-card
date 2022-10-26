@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Form Recognition Sample</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>Yellow Card Recognizer</h1>
+        Input image URL, then Press <strong>【Recognize】</strong>Button
+        <br><br>
+        Image to read:
+        <input type="text" name="inputImage" id="inputImage" size="90"
+            value="https://news-data.pts.org.tw/media/63376/conversions/cover-thumb.jpg" />
+        <button onclick="processImage()">Recognize</button>
+        <br><br>
+        <input type="file" name="inputImageFile" id="inputImageFile" data-target="file-uploader" accept="image/*">
+        <br><br>
+        <div id="wrapper" style="width:90%; display:table;">
+            <div id="imageDiv" style="width:800px; display:table-cell;">
+                Source image:
+                <br><br>
+                <img id="sourceImage" width="800" height="400" />
+            </div>
+            <div id="ResultDiv" style="width:500px; display:table-cell;">
+                Result:<h1 id="showNumbers"></h1>
+                <br><br>
+                <table id="resultTable">
+                    <tr>
+                        <th>#</th>
+                        <th>Vax Name</th>
+                        <th>Vax Date</th>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div id="jsonOutput">
+            Response:
+            <br><br>
+            <textarea id="responseTextArea" class="UIInput"
+                    style="width:800px; height:400px;"></textarea>
+        </div>
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+        <script src="key.js"></script>
+        <script src="main.js"></script>
+    </body>
+</html>

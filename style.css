@@ -1,0 +1,23 @@
+#Receipt{
+    border: 1px solid gray;
+    padding: 15px;
+    background-color: antiquewhite;
+}
+
+#numbers p{
+    text-align: right;
+    padding-right: 50px;
+}
+
+li{
+    list-style-type: none;
+}
+
+table{
+    border: 1px solid black;
+    width: 100%;
+}
+
+td, th{
+    border: 1px solid black;
+}
