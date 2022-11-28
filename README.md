@@ -54,3 +54,5 @@
   * Evaluation
   * Improvement
   * Additional Part
+
+[[ 開始學習　Start to Learn ]](page1.md)
