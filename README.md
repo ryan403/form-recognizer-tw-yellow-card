@@ -1,5 +1,11 @@
 # 台灣疫苗接種小黃卡影像辨識 - 使用雲端AI服務為例
 # Taiwan COVID-19 Vax Card Image Recognition - Using Azure Form Recognizer
+## 中文解說影片
+[![Video Link](/images/youtube.jpg)](https://www.youtube.com/watch?v=vWlfFrnn44I)
+
+## English Video
+[![Video Link](/images/youtube.jpg)](https://www.youtube.com/watch?v=Z-dkW4b75F8)
+
 ## Global AI Developer Days 2022 ([Slides 投影片](https://mobiledev.tw/taiwan-covid-19-vax-card-image-recognition-by-azure-form-recognizer/))
 
 ### 目標
@@ -8,6 +14,14 @@
   * 每次疫苗的種類
   * 接種日期
 * 了解如何運用雲端AI服務達成目的
+
+### Goal
+* From physical to digital, transfer Vax card info into:
+  * Vax Count
+  * Vax Type
+  * Vax Date
+* How to integrate Cloud AI Service
+
 
 ### 大綱
 * 問題需求描述 - 疫苗接種卡影像辨識
@@ -24,3 +38,19 @@
   * 了解如何評估目前模型表現
   * 了解可能的改善方向
   * 了解有哪些功能還可以增加
+
+### 大綱
+* Requirement Description
+  * To know how to ask a good question!
+* Solution Exploration
+  * Image Recognition Methods
+* Intro to Current Solution 
+  * Azure Cloud AI Service introduction
+* Implementation Flow
+  * Create Cloud AI Service
+  * Cloud AI Service Integration
+  * Custom Settings
+* Result & Discussion
+  * Evaluation
+  * Improvement
+  * Additional Part
