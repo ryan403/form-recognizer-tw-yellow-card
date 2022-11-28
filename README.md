@@ -39,7 +39,7 @@
   * 了解可能的改善方向
   * 了解有哪些功能還可以增加
 
-### 大綱
+### Outline
 * Requirement Description
   * To know how to ask a good question!
 * Solution Exploration
