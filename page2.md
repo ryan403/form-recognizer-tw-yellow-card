@@ -1,4 +1,4 @@
-# 方法選擇
+# [方法選擇](#method-choices)
 
 ![影像辨識方法選擇](images/ml-way.png)
 
