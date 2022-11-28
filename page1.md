@@ -19,4 +19,4 @@
 * 上半部 : 個人資訊
 * 下半部 : 接種紀錄(本次實驗主要針對的部分)
 
-[[ 下一頁　Next Page ]](page2.md#method-choices)
+[[ 下一頁　Next Page ]](page2.md#top)
