@@ -1,5 +1,5 @@
-![Goal](images/goal.PNG)
 # 開發目標
+![Goal](images/goal.PNG)
 ## 把小黃卡上的接種紀錄數位化
 * 接種次數
 * 疫苗種類
@@ -19,4 +19,4 @@
 * 上半部 : 個人資訊
 * 下半部 : 接種紀錄(本次實驗主要針對的部分)
 
-[[ 下一頁　Next Page ]](page2.md)
+[[ 下一頁　Next Page ]](page2.md#影像辨識方法選擇)

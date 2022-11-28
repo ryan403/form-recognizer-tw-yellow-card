@@ -28,4 +28,4 @@
 
 當然，也是有出包的情況。
 
-[[ 下一頁 Next Page ]](page6.md)
+[[ 下一頁 Next Page ]](page6.md#結果探討)

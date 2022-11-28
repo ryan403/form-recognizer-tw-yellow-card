@@ -1,4 +1,4 @@
-###影像辨識方法選擇
+### 影像辨識方法選擇
 
 ![影像辨識方法選擇](images/ml-way.png)
 
@@ -17,6 +17,6 @@
 
 如果公司內部已有機器學習工程師，當然可以直奔這個選項，開始進行程式開發。那麼目前市面上有沒有工具可以讓你放入自己的資料集來訓練模型呢? 非常多。如Google 的Cloud AutoML、Teachable Machine、Microsoft的Custom Vision Service，都是將圖片標註後，即可開始進行訓練，無須機器學習知識。
 
-而以我們目前的例子來說，也有很多選擇，但是剛好Microsoft推出了一個針對表單文件識別的Azure Form Recognizer最接近我們當年的開發目標，所以選擇它來作為本次實驗的工具。
+而以我們目前的例子來說，也有很多選擇，但是剛好Microsoft推出了一個針對表單文件識別的Azure Form Recognizer最接近我們當前的開發目標，所以選擇它來作為本次實驗的工具。
 
-[[ 下一頁 Next Page ]](page3.md)
+[[ 下一頁 Next Page ]](page3.md#form-recognizer-studio-介紹)

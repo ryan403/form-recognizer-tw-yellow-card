@@ -55,4 +55,4 @@
   * Improvement
   * Additional Part
 
-[[ 開始學習　Start to Learn ]](page1.md)
+[[ 開始學習　Start to Learn ]](page1.md#開發目標)
